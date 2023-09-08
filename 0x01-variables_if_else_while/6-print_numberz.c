@@ -13,11 +13,13 @@
 
 int main(void)
 {
-int i;
-	for (i = 0; i < 10; i++)
+int digit = 0;
+	while (digit <= 9)
 {
-	printf("%i\n", i);
+		putchar(digit + '0');
+		digit++;
 }
-	printf("\n");
+	putchar('\n');
+
 	return (0);
 }
