@@ -7,8 +7,9 @@
  * Return value : Always 0 (success)
 */
 
-int main(void)  
+int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	 printf("Beauty is in the eye of the beholder,\n");
+	printf("but the outcome is a piece of art.\n");
 	return (0);
 }
