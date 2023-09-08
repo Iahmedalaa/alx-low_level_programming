@@ -20,7 +20,7 @@ char ch = 'a';
 	putchar(digit + '0');
 	digit++;
 }
-	while (ch <= f)
+	while (ch <= 'f')
 {
 	putchar(ch);
 	ch++;
