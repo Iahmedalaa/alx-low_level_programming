@@ -1,15 +1,19 @@
-#include<stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Description : A c programm that prints with printf function
- * Return value : Always 0 (success)
+* main - entry point
+*
+* Description: show alphapet
+*
+* Return: 0 (success)
+*
 */
 
 int main(void)
 {
-	 printf("Beauty is in the eye of the beholder,\n");
-	printf("but the outcome is a piece of art.\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+
 	return (0);
 }
