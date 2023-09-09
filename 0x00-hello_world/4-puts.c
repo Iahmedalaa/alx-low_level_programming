@@ -1,11 +1,16 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Description : A c programm that prints with put function
-* Return : Always 0 (success)
+* main - entry point
+*
+* Description: show alphapet
+*
+* Return: 0 (success)
+*
 */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
