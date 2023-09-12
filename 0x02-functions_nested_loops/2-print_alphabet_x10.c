@@ -1,8 +1,7 @@
 #include"main.h"
-#include<unistd.h>
 
 /**
-* main - entry point
+* print_alphabet_x10 - function that will do sth
 *
 * Description: show alphapet
 *
