@@ -8,8 +8,7 @@
 *
 * Return: 0 (success)
 */
-int main(void)
-{
+
 	void print_alphabet_x10(void);
 	print_alphabet_x10();
 
@@ -32,4 +31,4 @@ int main(void)
 	putchar('\n');
 }
 
-}
+
