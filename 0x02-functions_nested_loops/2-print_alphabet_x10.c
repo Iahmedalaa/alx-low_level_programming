@@ -5,29 +5,25 @@
 *
 * Description: show alphapet
 *
-* Return: 0 (success)
+* Return: 0 (succes0
 */
 
-	void print_alphabet_x10(void);
-	print_alphabet_x10();
-
-	return (0);
-}
 	void print_alphabet_x10(void)
 {
-	int i;
+	int i, j;
 	char ch;
 
 	for (i = 0; i < 10; i++)
 
 {
 	ch = 'a';
-	while (ch <= 'z')
+
+	for (j = 0; j < 26; j++)
+
 {
-	putchar (ch);
+	_putchar(ch);
 	ch++;
 }
-	putchar('\n');
+	_putchar('\n');
 }
-
-
+}
