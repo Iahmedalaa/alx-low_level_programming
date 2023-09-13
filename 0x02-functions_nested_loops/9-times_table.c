@@ -19,7 +19,7 @@ int num, mul, prod;
 	_putchar(' ');
 	prod = num * mul;
 	if (prod <= 9)
-	_putcahar(' ');
+	_putchar(' ');
 	else
 	_putchar((prod / 10) + 48);
 	putchar((prod % 10) + 48);
