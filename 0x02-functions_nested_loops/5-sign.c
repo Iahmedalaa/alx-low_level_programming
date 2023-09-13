@@ -9,7 +9,7 @@
 *       otherwise always 0 (success)
 */
 
-int print_sign(int n);
+int print_sign(int n)
 {
 	if (n > o)
 	putchar('+');
@@ -18,7 +18,7 @@ int print_sign(int n);
 	putchar('0');
 	return (0);
 	if (n < 0)
-	putchar('-1');
+	putchar(45);
 	return (-1);
 
 
