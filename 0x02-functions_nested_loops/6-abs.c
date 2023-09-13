@@ -12,7 +12,8 @@
 
 	int _abs(int c)
 {
-	r = _abs(int)
-	putchar(r);
+	if (c < o)
+	c = (-1) * c
+	return (c);
 
 }
