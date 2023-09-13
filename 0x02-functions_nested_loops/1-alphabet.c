@@ -1,24 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+#include"main.h"
 
 /**
-* main - entry point
-*
-* Description: show alphapet
-*
-* Return: 0 (success)
+ * print_alphabet - show alphapet in lowercase on _putchar  *	function to a - z
 */
-int main(void)
-{
-	print_alphabet();
-	void print_alphabet(void)
-	
-	return (0);
 
-}
-
-	void print_alphabet(void)
+void print_alphabet(void)
 {
 	char ch = 'a';
 
@@ -33,4 +22,4 @@ int main(void)
 
 }
 
-GG=g
+GG = g
