@@ -3,6 +3,8 @@
 /**
 * _islower - function that will do sth
 *
+* @c: takes ascii
+*
 * Return: returns 1 if `c` is lowercase
 *	otherwise always 0 (success)
 */
