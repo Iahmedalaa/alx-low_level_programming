@@ -11,11 +11,5 @@
 
 void reset_to_98(int *n)
 {
-	int n = 402;
-	int *ptr;
-	ptr= &n;
-	putchar(n);
-	*ptr = 98;
-	putchar(n);
-
+	*n = 98;
 }
