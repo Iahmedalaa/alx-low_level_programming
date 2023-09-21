@@ -3,12 +3,12 @@
 /**
 * *string_toupper - function that will do sth
 *
-* @str: talke
+* @' ': talke
 * Return: returns 1 if +  is lowercase
 *       otherwise always 0 (success)
 */
 
-char *string_toupper(char *str)
+char *string_toupper(char *)
 {
 	int i;
 
