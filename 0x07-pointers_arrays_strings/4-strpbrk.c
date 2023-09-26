@@ -27,3 +27,4 @@ char *_strpbrk(char *s, char *accept)
 	z++;
 }
 	return (p);
+}
