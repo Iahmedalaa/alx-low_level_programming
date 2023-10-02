@@ -1,9 +1,9 @@
-#include <stdio.h> 
+#include <stdio.h>
 
 /**
- * main - do sth dl. 
- * @argc: dkd 
- * @argv: kd 
+ * main - do sth dl.
+ * @argc: dkd
+ * @argv: kd
  * Return: 0
  */
 
