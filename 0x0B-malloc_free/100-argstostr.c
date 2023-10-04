@@ -1,5 +1,6 @@
-#include "main.h"
 #include <string.h>
+#include "main.h"
+
 
 /**
  * *argstostr - do sth dl.
@@ -17,7 +18,7 @@ char *argstostr(int ac, char **av)
 	return (NULL);
 
 	for (; i < ac; i++, nc++)
-	nc += _strlen(av[i]);
+	nc += strlen(av[i]);
 
 
 	s = malloc(sizeof(char) * nc + 1);
