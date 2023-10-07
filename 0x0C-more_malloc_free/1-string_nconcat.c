@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 /**
  * *string_nconcat - do sth dl.
  * @s2: dkd
