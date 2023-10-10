@@ -1,5 +1,6 @@
-#ifndef MY_HEADER_FILE_H
-#define MY_HEADER_FILE_H
+#include "0-object_like_macro.h"
+#include "0-object_like_macro.h"
+#include <stdio.h>
 
 #define SIZE 1024
 
