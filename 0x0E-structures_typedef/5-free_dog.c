@@ -5,7 +5,7 @@
  * free_dog - do sth dl.
  * @d: kjd
  *
- * Description: dklsjk ldskjv l
+ * Free: dklsjk ldskjv l
  */
 
 void free_dog(dog_t *d)
