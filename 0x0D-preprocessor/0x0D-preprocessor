@@ -1,3 +1,6 @@
-#include "myheader.h"
+#ifndef MY_jk_kF_H
+#define MY_jk_kF_H
 
 #define SIZE 1024
+
+#endif
