@@ -1,8 +1,8 @@
 #include"stdio.h"
-#iclude <stdlib.h>
+#include <stdlib.h>
 
 /**
- * free_ dog - do sth dl.
+ * free_dog - do sth dl.
  * @d: kjd
  *
  * Description: dklsjk ldskjv l
