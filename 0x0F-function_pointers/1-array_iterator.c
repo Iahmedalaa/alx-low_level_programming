@@ -1,10 +1,10 @@
 #include "function_pointers.h"
 
 /**
- * array_iterator - do sth dl. 
- * @arrat: dkd 
+ * array_iterator - do sth dl.
+ * @arrat: dkd
  * @size: kd
- * @action: lkds 
+ * @action: lkds
  * Return: 0
  */
 
