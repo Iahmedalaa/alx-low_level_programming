@@ -2,7 +2,7 @@
 
 /**
  * array_iterator - do sth dl.
- * @arrat: dkd
+ * @array: dkd
  * @size: kd
  * @action: lkds
  * Return: 0
